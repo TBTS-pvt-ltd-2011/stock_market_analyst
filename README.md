@@ -1,7 +1,7 @@
 
 ***
 
-# Welcome to The library managment system's repository!
+# Welcome to The stock market systems's repository!
 
 ***
 
